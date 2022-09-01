@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Thu Sep 01 11:29:53 CST 2022","Thu Sep 01 11:30:23 CST 2022","29910","testcase","测试套件-登录","TestLogin","","","用例标题：密码输入错误，验证登录失败","测试步骤：输入用户名、错误的密码，点击登录"
+"broken","Thu Sep 01 11:30:48 CST 2022","Thu Sep 01 11:31:00 CST 2022","11892","testcase","测试套件-福利中心","TestSigning","","","用例标题：福利中心转盘抽奖","测试步骤：app首页，进入福利中心，进入转盘，点击抽奖"
+"passed","Thu Sep 01 11:30:25 CST 2022","Thu Sep 01 11:30:36 CST 2022","11527","testcase","测试套件-登录","TestLogin","","","用例标题：输入正确的用户名和密码登录，验证登录成功","测试步骤：输入用户名、正确的的密码，点击登录"
+"broken","Thu Sep 01 11:31:09 CST 2022","Thu Sep 01 11:31:17 CST 2022","8683","testcase","测试套件-福利中心","TestSigning","","","用例标题：福利中心签到","测试步骤：app首页，进入福利中心，点击签到"

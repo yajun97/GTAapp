@@ -1,0 +1,41 @@
+[ {
+  "uid" : "c7f66002f51c0cf9",
+  "name" : "用例标题：密码输入错误，验证登录失败",
+  "time" : {
+    "start" : 1662002993867,
+    "stop" : 1662003023777,
+    "duration" : 29910
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "791239bb488d42eb",
+  "name" : "用例标题：福利中心转盘抽奖",
+  "time" : {
+    "start" : 1662003048728,
+    "stop" : 1662003060620,
+    "duration" : 11892
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5a5e1276be0f72da",
+  "name" : "用例标题：输入正确的用户名和密码登录，验证登录成功",
+  "time" : {
+    "start" : 1662003025428,
+    "stop" : 1662003036955,
+    "duration" : 11527
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f225329fdc1a0d63",
+  "name" : "用例标题：福利中心签到",
+  "time" : {
+    "start" : 1662003069007,
+    "stop" : 1662003077690,
+    "duration" : 8683
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

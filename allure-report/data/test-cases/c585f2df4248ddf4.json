@@ -1,0 +1,132 @@
+{
+  "uid" : "c585f2df4248ddf4",
+  "name" : "用例标题：输入正确的用户名和密码登录，验证登录成功",
+  "fullName" : "testcase.test_1_login.TestLogin#test_login_success",
+  "historyId" : "b05de3c88e268f38af302c010d0ecd76",
+  "time" : {
+    "start" : 1662002769311,
+    "stop" : 1662002781821,
+    "duration" : 12510
+  },
+  "description" : "测试步骤：输入用户名、正确的的密码，点击登录",
+  "descriptionHtml" : "<p>测试步骤：输入用户名、正确的的密码，点击登录</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "before_runcase",
+    "time" : {
+      "start" : 1662002769311,
+      "stop" : 1662002769311,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session",
+    "time" : {
+      "start" : 1662002738413,
+      "stop" : 1662002738495,
+      "duration" : 82
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "before_runcase::0",
+    "time" : {
+      "start" : 1662002781822,
+      "stop" : 1662002785943,
+      "duration" : 4121
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "session::0",
+    "time" : {
+      "start" : 1662002819815,
+      "stop" : 1662002830074,
+      "duration" : 10259
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "测试套件-登录"
+  }, {
+    "name" : "feature",
+    "value" : "测试模块-登录模块"
+  }, {
+    "name" : "epic",
+    "value" : "*************登录模块*************"
+  }, {
+    "name" : "tag",
+    "value" : "登录成功"
+  }, {
+    "name" : "story",
+    "value" : "app用户登录模块"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "UPC3843"
+  }, {
+    "name" : "thread",
+    "value" : "1192-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_1_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "D:\\pythonProject1\\screenshots",
+    "url" : "D:\\pythonProject1\\screenshots",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "登录成功" ]
+  },
+  "source" : "c585f2df4248ddf4.json",
+  "parameterValues" : [ ]
+}

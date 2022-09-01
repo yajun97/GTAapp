@@ -1,0 +1,52 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "children" : [ {
+        "name" : "用例标题：密码输入错误，验证登录失败",
+        "uid" : "c7f66002f51c0cf9",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662002993867,
+          "stop" : 1662003023777,
+          "duration" : 29910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：福利中心转盘抽奖",
+        "uid" : "791239bb488d42eb",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662003048728,
+          "stop" : 1662003060620,
+          "duration" : 11892
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：福利中心签到",
+        "uid" : "f225329fdc1a0d63",
+        "parentUid" : "7a823ebd65a5f17ad39e628108c6e522",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662003069007,
+          "stop" : 1662003077690,
+          "duration" : 8683
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7a823ebd65a5f17ad39e628108c6e522"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

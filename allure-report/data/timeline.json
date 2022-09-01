@@ -1,0 +1,233 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "UPC3843",
+    "children" : [ {
+      "name" : "1192-MainThread",
+      "children" : [ {
+        "name" : "用例标题：输入正确的用户名和密码登录，验证登录成功",
+        "uid" : "c585f2df4248ddf4",
+        "parentUid" : "ed1db21cc03c4faf96d88df0055b41fb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662002769311,
+          "stop" : 1662002781821,
+          "duration" : 12510
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：福利中心转盘抽奖",
+        "uid" : "70145664ec2030cd",
+        "parentUid" : "ed1db21cc03c4faf96d88df0055b41fb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662002794219,
+          "stop" : 1662002802142,
+          "duration" : 7923
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：福利中心签到",
+        "uid" : "2e0818056d04b51a",
+        "parentUid" : "ed1db21cc03c4faf96d88df0055b41fb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662002811017,
+          "stop" : 1662002819776,
+          "duration" : 8759
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：密码输入错误，验证登录失败",
+        "uid" : "515669c52f96e2dc",
+        "parentUid" : "ed1db21cc03c4faf96d88df0055b41fb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662002738496,
+          "stop" : 1662002767811,
+          "duration" : 29315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ed1db21cc03c4faf96d88df0055b41fb"
+    }, {
+      "name" : "23256-MainThread",
+      "children" : [ {
+        "name" : "用例标题：福利中心转盘抽奖",
+        "uid" : "2b91e52a8a1b3be9",
+        "parentUid" : "8603e6c81c9ec375e9fb5e9a7f451be4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1661864806451,
+          "stop" : 1661864816672,
+          "duration" : 10221
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：密码输入错误，验证登录失败",
+        "uid" : "359010457b824dfb",
+        "parentUid" : "8603e6c81c9ec375e9fb5e9a7f451be4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1661864744497,
+          "stop" : 1661864777960,
+          "duration" : 33463
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：福利中心签到",
+        "uid" : "9b91da828a60f987",
+        "parentUid" : "8603e6c81c9ec375e9fb5e9a7f451be4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1661864825196,
+          "stop" : 1661864830987,
+          "duration" : 5791
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：输入正确的用户名和密码登录，验证登录成功",
+        "uid" : "b9eb772dac2201d6",
+        "parentUid" : "8603e6c81c9ec375e9fb5e9a7f451be4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1661864779470,
+          "stop" : 1661864796068,
+          "duration" : 16598
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8603e6c81c9ec375e9fb5e9a7f451be4"
+    }, {
+      "name" : "1760-MainThread",
+      "children" : [ {
+        "name" : "用例标题：福利中心签到",
+        "uid" : "f225329fdc1a0d63",
+        "parentUid" : "772a314159cfd53aa249067d9fc20516",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662003069007,
+          "stop" : 1662003077690,
+          "duration" : 8683
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：密码输入错误，验证登录失败",
+        "uid" : "c7f66002f51c0cf9",
+        "parentUid" : "772a314159cfd53aa249067d9fc20516",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662002993867,
+          "stop" : 1662003023777,
+          "duration" : 29910
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：输入正确的用户名和密码登录，验证登录成功",
+        "uid" : "5a5e1276be0f72da",
+        "parentUid" : "772a314159cfd53aa249067d9fc20516",
+        "status" : "passed",
+        "time" : {
+          "start" : 1662003025428,
+          "stop" : 1662003036955,
+          "duration" : 11527
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：福利中心转盘抽奖",
+        "uid" : "791239bb488d42eb",
+        "parentUid" : "772a314159cfd53aa249067d9fc20516",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662003048728,
+          "stop" : 1662003060620,
+          "duration" : 11892
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "772a314159cfd53aa249067d9fc20516"
+    }, {
+      "name" : "20196-MainThread",
+      "children" : [ {
+        "name" : "用例标题：密码输入错误，验证登录失败",
+        "uid" : "988738c00d30c37d",
+        "parentUid" : "4369087ad025b3b0e86c05a8c7357f9f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662002458198,
+          "stop" : 1662002480960,
+          "duration" : 22762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：福利中心转盘抽奖",
+        "uid" : "dc67f5911631b554",
+        "parentUid" : "4369087ad025b3b0e86c05a8c7357f9f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662002595409,
+          "stop" : 1662002598436,
+          "duration" : 3027
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：输入正确的用户名和密码登录，验证登录成功",
+        "uid" : "a86fdfc56b4594e1",
+        "parentUid" : "4369087ad025b3b0e86c05a8c7357f9f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662002501375,
+          "stop" : 1662002521611,
+          "duration" : 20236
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "用例标题：福利中心签到",
+        "uid" : "fe4c381b0dffa4dd",
+        "parentUid" : "4369087ad025b3b0e86c05a8c7357f9f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1662002606803,
+          "stop" : 1662002609820,
+          "duration" : 3017
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4369087ad025b3b0e86c05a8c7357f9f"
+    } ],
+    "uid" : "9c4617cb7a250db7db3e6aa031ebc4e6"
+  } ]
+}

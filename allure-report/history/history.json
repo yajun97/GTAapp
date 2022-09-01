@@ -1,0 +1,81 @@
+{
+  "a5d36d25e3840c4d8d6483b90c4a2993" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "791239bb488d42eb",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1662003048728,
+        "stop" : 1662003060620,
+        "duration" : 11892
+      }
+    } ]
+  },
+  "10f1a89fe6af359177da412ff71ca44d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c7f66002f51c0cf9",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1662002993867,
+        "stop" : 1662003023777,
+        "duration" : 29910
+      }
+    } ]
+  },
+  "b05de3c88e268f38af302c010d0ecd76" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5a5e1276be0f72da",
+      "status" : "passed",
+      "time" : {
+        "start" : 1662003025428,
+        "stop" : 1662003036955,
+        "duration" : 11527
+      }
+    } ]
+  },
+  "1f826486236dc15539fedbd703d6baa0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f225329fdc1a0d63",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchElementException: Message: An element could not be located on the page using the given search parameters.",
+      "time" : {
+        "start" : 1662003069007,
+        "stop" : 1662003077690,
+        "duration" : 8683
+      }
+    } ]
+  }
+}

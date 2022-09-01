@@ -1,0 +1,132 @@
+{
+  "uid" : "9b91da828a60f987",
+  "name" : "用例标题：福利中心签到",
+  "fullName" : "testcase.test_benefit.TestSigning#test_signin",
+  "historyId" : "1f826486236dc15539fedbd703d6baa0",
+  "time" : {
+    "start" : 1661864825196,
+    "stop" : 1661864830987,
+    "duration" : 5791
+  },
+  "description" : "测试步骤：app首页，进入福利中心，点击签到",
+  "descriptionHtml" : "<p>测试步骤：app首页，进入福利中心，点击签到</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "session",
+    "time" : {
+      "start" : 1661864744398,
+      "stop" : 1661864744495,
+      "duration" : 97
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "before_runcase",
+    "time" : {
+      "start" : 1661864816745,
+      "stop" : 1661864825196,
+      "duration" : 8451
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "afterStages" : [ {
+    "name" : "session::0",
+    "time" : {
+      "start" : 1661864830988,
+      "stop" : 1661864841250,
+      "duration" : 10262
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "before_runcase::0",
+    "time" : {
+      "start" : 1661864830987,
+      "stop" : 1661864830987,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "app福利中心签到"
+  }, {
+    "name" : "feature",
+    "value" : "测试模块-福利中心模块"
+  }, {
+    "name" : "suite",
+    "value" : "测试套件-福利中心"
+  }, {
+    "name" : "epic",
+    "value" : "************测试福利中心************"
+  }, {
+    "name" : "tag",
+    "value" : "签到成功"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSigning"
+  }, {
+    "name" : "host",
+    "value" : "UPC3843"
+  }, {
+    "name" : "thread",
+    "value" : "23256-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_benefit"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ {
+    "name" : "D:\\pythonProject1\\screenshots",
+    "url" : "D:\\pythonProject1\\screenshots",
+    "type" : "test_case"
+  } ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "签到成功" ]
+  },
+  "source" : "9b91da828a60f987.json",
+  "parameterValues" : [ ]
+}
